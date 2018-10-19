@@ -1,0 +1,422 @@
+a:12:{s:6:"config";s:2706:"a:5:{s:10:"phpVersion";s:6:"5.6.35";s:10:"yiiVersion";s:8:"2.0.15.1";s:11:"application";a:8:{s:3:"yii";s:8:"2.0.15.1";s:4:"name";s:9:"HOME CARE";s:7:"version";s:3:"1.0";s:8:"language";s:2:"es";s:14:"sourceLanguage";s:2:"es";s:7:"charset";s:5:"UTF-8";s:3:"env";s:3:"dev";s:5:"debug";b:1;}s:3:"php";a:5:{s:7:"version";s:6:"5.6.35";s:6:"xdebug";b:1;s:3:"apc";b:0;s:8:"memcache";b:0;s:9:"memcached";b:0;}s:10:"extensions";a:11:{s:24:"yiisoft/yii2-swiftmailer";a:3:{s:4:"name";s:24:"yiisoft/yii2-swiftmailer";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:16:"@yii/swiftmailer";s:60:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-swiftmailer";}}s:18:"yiisoft/yii2-tcpdf";a:3:{s:4:"name";s:18:"yiisoft/yii2-tcpdf";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:10:"@yii/tcpdf";s:54:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-tcpdf";}}s:16:"yiisoft/yii2-jui";a:3:{s:4:"name";s:16:"yiisoft/yii2-jui";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/jui";s:52:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-jui";}}s:24:"yiisoft/yii2fullcalendar";a:3:{s:4:"name";s:24:"yiisoft/yii2fullcalendar";s:7:"version";s:7:"2.0.3.0";s:5:"alias";a:1:{s:21:"@yii/yii2fullcalendar";s:60:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2fullcalendar";}}s:22:"yiisoft/yii2-bootstrap";a:3:{s:4:"name";s:22:"yiisoft/yii2-bootstrap";s:7:"version";s:7:"2.0.8.0";s:5:"alias";a:1:{s:14:"@yii/bootstrap";s:62:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-bootstrap/src";}}s:18:"yiisoft/yii2-debug";a:3:{s:4:"name";s:18:"yiisoft/yii2-debug";s:7:"version";s:8:"2.0.13.0";s:5:"alias";a:1:{s:10:"@yii/debug";s:54:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-debug";}}s:16:"yiisoft/yii2-gii";a:3:{s:4:"name";s:16:"yiisoft/yii2-gii";s:7:"version";s:7:"2.0.7.0";s:5:"alias";a:1:{s:8:"@yii/gii";s:56:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-gii/src";}}s:18:"yiisoft/yii2-faker";a:3:{s:4:"name";s:18:"yiisoft/yii2-faker";s:7:"version";s:7:"2.0.4.0";s:5:"alias";a:1:{s:10:"@yii/faker";s:54:"C:\wamp\www\Dropbox\homecare\vendor/yiisoft/yii2-faker";}}s:31:"philippfrenzel/yii2fullcalendar";a:3:{s:4:"name";s:31:"philippfrenzel/yii2fullcalendar";s:7:"version";s:7:"3.9.0.0";s:5:"alias";a:1:{s:17:"@yii2fullcalendar";s:67:"C:\wamp\www\Dropbox\homecare\vendor/philippfrenzel/yii2fullcalendar";}}s:23:"janisto/yii2-timepicker";a:3:{s:4:"name";s:23:"janisto/yii2-timepicker";s:7:"version";s:7:"1.1.0.0";s:5:"alias";a:1:{s:19:"@janisto/timepicker";s:63:"C:\wamp\www\Dropbox\homecare\vendor/janisto/yii2-timepicker/src";}}s:17:"zyx/zyx-phpmailer";a:3:{s:4:"name";s:17:"zyx/zyx-phpmailer";s:7:"version";s:7:"0.9.4.0";s:5:"alias";a:1:{s:14:"@zyx/phpmailer";s:53:"C:\wamp\www\Dropbox\homecare\vendor/zyx/zyx-phpmailer";}}}}";s:7:"request";s:5133:"a:15:{s:7:"flashes";a:0:{}s:10:"statusCode";i:200;s:14:"requestHeaders";a:11:{s:4:"host";s:9:"127.0.0.1";s:10:"user-agent";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0";s:6:"accept";s:22:"text/html, */*; q=0.01";s:15:"accept-language";s:35:"es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3";s:15:"accept-encoding";s:13:"gzip, deflate";s:7:"referer";s:49:"http://127.0.0.1/Dropbox/homecare/web/site/search";s:12:"content-type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:16:"x-requested-with";s:14:"XMLHttpRequest";s:14:"content-length";s:2:"42";s:6:"cookie";s:108:"_ga=GA1.1.958970710.1528918347; PHPSESSID=ilsvq7e931htmqju0mtm0dfot7; _csrf=QBjCoBIt7oRyYqZl18RzkSQruaYcV5ze";s:10:"connection";s:10:"keep-alive";}s:15:"responseHeaders";a:8:{s:12:"X-Powered-By";s:10:"PHP/5.6.35";s:7:"Expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"Cache-Control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"Pragma";s:8:"no-cache";s:12:"Content-Type";s:24:"text/html; charset=UTF-8";s:11:"X-Debug-Tag";s:13:"5bb54dc02a412";s:16:"X-Debug-Duration";s:3:"101";s:12:"X-Debug-Link";s:58:"/Dropbox/homecare/web/debug/default/view?tag=5bb54dc02a412";}s:5:"route";s:33:"afiliaciones/afiliados/searchdata";s:6:"action";s:76:"app\modules\afiliaciones\controllers\AfiliadosController::actionSearchdata()";s:12:"actionParams";a:0:{}s:7:"general";a:5:{s:6:"method";s:4:"POST";s:6:"isAjax";b:1;s:6:"isPjax";b:0;s:7:"isFlash";b:0;s:18:"isSecureConnection";b:0;}s:11:"requestBody";a:3:{s:12:"Content Type";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:3:"Raw";s:42:"Personas%5BPERS_IDENTIFICACION%5D=40637721";s:17:"Decoded to Params";a:1:{s:8:"Personas";a:1:{s:19:"PERS_IDENTIFICACION";s:8:"40637721";}}}s:6:"SERVER";a:40:{s:15:"REDIRECT_STATUS";s:3:"200";s:9:"HTTP_HOST";s:9:"127.0.0.1";s:15:"HTTP_USER_AGENT";s:78:"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0";s:11:"HTTP_ACCEPT";s:22:"text/html, */*; q=0.01";s:20:"HTTP_ACCEPT_LANGUAGE";s:35:"es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3";s:20:"HTTP_ACCEPT_ENCODING";s:13:"gzip, deflate";s:12:"HTTP_REFERER";s:49:"http://127.0.0.1/Dropbox/homecare/web/site/search";s:12:"CONTENT_TYPE";s:48:"application/x-www-form-urlencoded; charset=UTF-8";s:21:"HTTP_X_REQUESTED_WITH";s:14:"XMLHttpRequest";s:14:"CONTENT_LENGTH";s:2:"42";s:11:"HTTP_COOKIE";s:108:"_ga=GA1.1.958970710.1528918347; PHPSESSID=ilsvq7e931htmqju0mtm0dfot7; _csrf=QBjCoBIt7oRyYqZl18RzkSQruaYcV5ze";s:15:"HTTP_CONNECTION";s:10:"keep-alive";s:4:"PATH";s:898:"C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;C:\wamp\bin\php\php7.2.4;C:\Program Files\PuTTY\;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps";s:10:"SystemRoot";s:10:"C:\WINDOWS";s:7:"COMSPEC";s:27:"C:\WINDOWS\system32\cmd.exe";s:7:"PATHEXT";s:53:".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC";s:6:"WINDIR";s:10:"C:\WINDOWS";s:16:"SERVER_SIGNATURE";s:80:"<address>Apache/2.4.33 (Win32) PHP/5.6.35 Server at 127.0.0.1 Port 80</address>
+";s:15:"SERVER_SOFTWARE";s:32:"Apache/2.4.33 (Win32) PHP/5.6.35";s:11:"SERVER_NAME";s:9:"127.0.0.1";s:11:"SERVER_ADDR";s:9:"127.0.0.1";s:11:"SERVER_PORT";s:2:"80";s:11:"REMOTE_ADDR";s:9:"127.0.0.1";s:13:"DOCUMENT_ROOT";s:11:"C:/wamp/www";s:14:"REQUEST_SCHEME";s:4:"http";s:14:"CONTEXT_PREFIX";s:0:"";s:21:"CONTEXT_DOCUMENT_ROOT";s:11:"C:/wamp/www";s:12:"SERVER_ADMIN";s:29:"wampserver@wampserver.invalid";s:15:"SCRIPT_FILENAME";s:42:"C:/wamp/www/Dropbox/homecare/web/index.php";s:11:"REMOTE_PORT";s:5:"58011";s:12:"REDIRECT_URL";s:55:"/Dropbox/homecare/web/afiliaciones/afiliados/searchdata";s:17:"GATEWAY_INTERFACE";s:7:"CGI/1.1";s:15:"SERVER_PROTOCOL";s:8:"HTTP/1.1";s:14:"REQUEST_METHOD";s:4:"POST";s:12:"QUERY_STRING";s:0:"";s:11:"REQUEST_URI";s:55:"/Dropbox/homecare/web/afiliaciones/afiliados/searchdata";s:11:"SCRIPT_NAME";s:31:"/Dropbox/homecare/web/index.php";s:8:"PHP_SELF";s:31:"/Dropbox/homecare/web/index.php";s:18:"REQUEST_TIME_FLOAT";d:1538608576.138;s:12:"REQUEST_TIME";i:1538608576;}s:3:"GET";a:0:{}s:4:"POST";a:1:{s:8:"Personas";a:1:{s:19:"PERS_IDENTIFICACION";s:8:"40637721";}}s:6:"COOKIE";a:3:{s:3:"_ga";s:26:"GA1.1.958970710.1528918347";s:9:"PHPSESSID";s:26:"ilsvq7e931htmqju0mtm0dfot7";s:5:"_csrf";s:32:"QBjCoBIt7oRyYqZl18RzkSQruaYcV5ze";}s:5:"FILES";a:0:{}s:7:"SESSION";a:2:{s:7:"__flash";a:0:{}s:11:"__returnUrl";s:34:"/Dropbox/homecare/web//site/logout";}}";s:3:"log";s:12864:"a:1:{s:8:"messages";a:30:{i:0;a:6:{i:0;s:33:"Bootstrap with yii\log\Dispatcher";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1538608576.158998;i:4;a:0:{}i:5;i:2074128;}i:1;a:6:{i:0;s:21:"Loading module: debug";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1538608576.159055;i:4;a:0:{}i:5;i:2075960;}i:2;a:6:{i:0;s:15:"Session started";i:1;i:4;i:2;s:21:"yii\web\Session::open";i:3;d:1538608576.1702011;i:4;a:0:{}i:5;i:3334040;}i:3;a:6:{i:0;s:44:"Bootstrap with yii\debug\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1538608576.172492;i:4;a:0:{}i:5;i:3369248;}i:4;a:6:{i:0;s:19:"Loading module: gii";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1538608576.1772809;i:4;a:0:{}i:5;i:3783032;}i:5;a:6:{i:0;s:42:"Bootstrap with yii\gii\Module::bootstrap()";i:1;i:8;i:2;s:31:"yii\base\Application::bootstrap";i:3;d:1538608576.177922;i:4;a:0:{}i:5;i:3827960;}i:16;a:6:{i:0;s:52:"Route requested: 'afiliaciones/afiliados/searchdata'";i:1;i:8;i:2;s:34:"yii\web\Application::handleRequest";i:3;d:1538608576.180433;i:4;a:0:{}i:5;i:4033760;}i:17;a:6:{i:0;s:28:"Loading module: afiliaciones";i:1;i:8;i:2;s:26:"yii\base\Module::getModule";i:3;d:1538608576.1804719;i:4;a:0:{}i:5;i:4037256;}i:18;a:6:{i:0;s:47:"Route to run: afiliaciones/afiliados/searchdata";i:1;i:8;i:2;s:30:"yii\base\Controller::runAction";i:3;d:1538608576.1833129;i:4;a:0:{}i:5;i:4336384;}i:19;a:6:{i:0;s:92:"Running action: app\modules\afiliaciones\controllers\AfiliadosController::actionSearchdata()";i:1;i:8;i:2;s:36:"yii\base\InlineAction::runWithParams";i:3;d:1538608576.1859901;i:4;a:0:{}i:5;i:4538104;}i:20;a:6:{i:0;s:62:"Opening DB connection: mysql:host=localhost;dbname=DB_HOMECARE";i:1;i:4;i:2;s:23:"yii\db\Connection::open";i:3;d:1538608576.2027581;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6568096;}i:23;a:6:{i:0;s:135:"SELECT `t`.* FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_AFILIADOS` `a` ON a.PERS_ID = t.PERS_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.214484;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6575208;}i:26;a:6:{i:0;s:210:"SELECT `t`.*, `a`.`PERS_ID` FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_BENEFICIARIOS` `b` ON t.PERS_ID = b.PERS_ID INNER JOIN `TBL_AFILIADOS` `a` ON b.AFIL_ID = a.AFIL_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.216078;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6581520;}i:29;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_PERSONAS`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.218066;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6609144;}i:32;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PERSONAS' AND kcu.table_name = 'TBL_PERSONAS'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2238331;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6674048;}i:35;a:6:{i:0;s:60:"SELECT `t`.* FROM `TBL_AFILIADOS` `t` WHERE `t`.`PERS_ID`=32";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2262051;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6718512;}i:38;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `TBL_AFILIADOS`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2269211;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6732080;}i:41;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_AFILIADOS' AND kcu.table_name = 'TBL_AFILIADOS'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.228956;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6755992;}i:44;a:6:{i:0;s:59:"SELECT * FROM `TBL_TIPOSIDENTIFICACIONES` WHERE `TIID_ID`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.231544;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6834872;}i:47;a:6:{i:0;s:50:"SHOW FULL COLUMNS FROM `TBL_TIPOSIDENTIFICACIONES`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2322819;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6847560;}i:50;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOSIDENTIFICACIONES' AND kcu.table_name = 'TBL_TIPOSIDENTIFICACIONES'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.233463;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6859112;}i:53;a:6:{i:0;s:46:"SELECT * FROM `TBL_TIPOPLAN` WHERE `TIPL_ID`=1";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.235352;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6895408;}i:56;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_TIPOPLAN`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2361131;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6907864;}i:59;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOPLAN' AND kcu.table_name = 'TBL_TIPOPLAN'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.237462;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6918560;}i:62;a:6:{i:0;s:44:"SELECT * FROM `TBL_PLANES` WHERE `PLAN_ID`=4";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2404439;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6958256;}i:65;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `TBL_PLANES`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2411671;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6971424;}i:68;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PLANES' AND kcu.table_name = 'TBL_PLANES'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2425439;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6984992;}i:71;a:6:{i:0;s:54:"SELECT * FROM `TBL_ESTADOSAFILIADOS` WHERE `ESAF_ID`=2";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2443571;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7021200;}i:74;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `TBL_ESTADOSAFILIADOS`";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2450199;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7033736;}i:77;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_ESTADOSAFILIADOS' AND kcu.table_name = 'TBL_ESTADOSAFILIADOS'";i:1;i:4;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.24614;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7044608;}}}";s:9:"profiling";s:22615:"a:3:{s:6:"memory";i:7148376;s:4:"time";d:0.10461997985839844;s:8:"messages";a:40:{i:21;a:6:{i:0;s:62:"Opening DB connection: mysql:host=localhost;dbname=DB_HOMECARE";i:1;i:80;i:2;s:23:"yii\db\Connection::open";i:3;d:1538608576.2028451;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6569640;}i:22;a:6:{i:0;s:62:"Opening DB connection: mysql:host=localhost;dbname=DB_HOMECARE";i:1;i:96;i:2;s:23:"yii\db\Connection::open";i:3;d:1538608576.2143281;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6578224;}i:24;a:6:{i:0;s:135:"SELECT `t`.* FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_AFILIADOS` `a` ON a.PERS_ID = t.PERS_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2146339;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6577048;}i:25;a:6:{i:0;s:135:"SELECT `t`.* FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_AFILIADOS` `a` ON a.PERS_ID = t.PERS_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2150891;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6580264;}i:27;a:6:{i:0;s:210:"SELECT `t`.*, `a`.`PERS_ID` FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_BENEFICIARIOS` `b` ON t.PERS_ID = b.PERS_ID INNER JOIN `TBL_AFILIADOS` `a` ON b.AFIL_ID = a.AFIL_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2161691;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6583104;}i:28;a:6:{i:0;s:210:"SELECT `t`.*, `a`.`PERS_ID` FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_BENEFICIARIOS` `b` ON t.PERS_ID = b.PERS_ID INNER JOIN `TBL_AFILIADOS` `a` ON b.AFIL_ID = a.AFIL_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.217453;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6589528;}i:30;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_PERSONAS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2181799;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6610416;}i:31;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_PERSONAS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2190289;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6646944;}i:33;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PERSONAS' AND kcu.table_name = 'TBL_PERSONAS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2240369;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6676488;}i:34;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PERSONAS' AND kcu.table_name = 'TBL_PERSONAS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2246261;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6678288;}i:36;a:6:{i:0;s:60:"SELECT `t`.* FROM `TBL_AFILIADOS` `t` WHERE `t`.`PERS_ID`=32";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.226295;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6719784;}i:37;a:6:{i:0;s:60:"SELECT `t`.* FROM `TBL_AFILIADOS` `t` WHERE `t`.`PERS_ID`=32";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2266569;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6723576;}i:39;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `TBL_AFILIADOS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2270241;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6733352;}i:40;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `TBL_AFILIADOS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2276039;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6750344;}i:42;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_AFILIADOS' AND kcu.table_name = 'TBL_AFILIADOS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.229064;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6758280;}i:43;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_AFILIADOS' AND kcu.table_name = 'TBL_AFILIADOS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2295539;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6761416;}i:45;a:6:{i:0;s:59:"SELECT * FROM `TBL_TIPOSIDENTIFICACIONES` WHERE `TIID_ID`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2316389;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6836144;}i:46;a:6:{i:0;s:59:"SELECT * FROM `TBL_TIPOSIDENTIFICACIONES` WHERE `TIID_ID`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.232044;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6838592;}i:48;a:6:{i:0;s:50:"SHOW FULL COLUMNS FROM `TBL_TIPOSIDENTIFICACIONES`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.232384;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6848864;}i:49;a:6:{i:0;s:50:"SHOW FULL COLUMNS FROM `TBL_TIPOSIDENTIFICACIONES`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2328899;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6856632;}i:51;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOSIDENTIFICACIONES' AND kcu.table_name = 'TBL_TIPOSIDENTIFICACIONES'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.233566;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6861456;}i:52;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOSIDENTIFICACIONES' AND kcu.table_name = 'TBL_TIPOSIDENTIFICACIONES'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2339859;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6863256;}i:54;a:6:{i:0;s:46:"SELECT * FROM `TBL_TIPOPLAN` WHERE `TIPL_ID`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.235451;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6896664;}i:55;a:6:{i:0;s:46:"SELECT * FROM `TBL_TIPOPLAN` WHERE `TIPL_ID`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2358699;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6898896;}i:57;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_TIPOPLAN`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2362151;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6909136;}i:58;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_TIPOPLAN`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2367029;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6915712;}i:60;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOPLAN' AND kcu.table_name = 'TBL_TIPOPLAN'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2376981;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6920872;}i:61;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOPLAN' AND kcu.table_name = 'TBL_TIPOPLAN'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.238744;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6922672;}i:63;a:6:{i:0;s:44:"SELECT * FROM `TBL_PLANES` WHERE `PLAN_ID`=4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.240541;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6959496;}i:64;a:6:{i:0;s:44:"SELECT * FROM `TBL_PLANES` WHERE `PLAN_ID`=4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2409141;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6962392;}i:66;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `TBL_PLANES`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.241267;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6972696;}i:67;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `TBL_PLANES`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2418029;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6983832;}i:69;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PLANES' AND kcu.table_name = 'TBL_PLANES'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2426479;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6987296;}i:70;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PLANES' AND kcu.table_name = 'TBL_PLANES'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.243068;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6989096;}i:72;a:6:{i:0;s:54:"SELECT * FROM `TBL_ESTADOSAFILIADOS` WHERE `ESAF_ID`=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2444479;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7022464;}i:73;a:6:{i:0;s:54:"SELECT * FROM `TBL_ESTADOSAFILIADOS` WHERE `ESAF_ID`=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.244787;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7024752;}i:75;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `TBL_ESTADOSAFILIADOS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2451229;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7035024;}i:76;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `TBL_ESTADOSAFILIADOS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2456019;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7041624;}i:78;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_ESTADOSAFILIADOS' AND kcu.table_name = 'TBL_ESTADOSAFILIADOS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2462449;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7046936;}i:79;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_ESTADOSAFILIADOS' AND kcu.table_name = 'TBL_ESTADOSAFILIADOS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.246639;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7048736;}}}";s:2:"db";s:21775:"a:1:{s:8:"messages";a:38:{i:24;a:6:{i:0;s:135:"SELECT `t`.* FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_AFILIADOS` `a` ON a.PERS_ID = t.PERS_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2146339;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6577048;}i:25;a:6:{i:0;s:135:"SELECT `t`.* FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_AFILIADOS` `a` ON a.PERS_ID = t.PERS_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2150891;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:476;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6580264;}i:27;a:6:{i:0;s:210:"SELECT `t`.*, `a`.`PERS_ID` FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_BENEFICIARIOS` `b` ON t.PERS_ID = b.PERS_ID INNER JOIN `TBL_AFILIADOS` `a` ON b.AFIL_ID = a.AFIL_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2161691;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6583104;}i:28;a:6:{i:0;s:210:"SELECT `t`.*, `a`.`PERS_ID` FROM `TBL_PERSONAS` `t` INNER JOIN `TBL_BENEFICIARIOS` `b` ON t.PERS_ID = b.PERS_ID INNER JOIN `TBL_AFILIADOS` `a` ON b.AFIL_ID = a.AFIL_ID WHERE `t`.`PERS_IDENTIFICACION`='40637721'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.217453;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6589528;}i:30;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_PERSONAS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2181799;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6610416;}i:31;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_PERSONAS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2190289;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6646944;}i:33;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PERSONAS' AND kcu.table_name = 'TBL_PERSONAS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2240369;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6676488;}i:34;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PERSONAS' AND kcu.table_name = 'TBL_PERSONAS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2246261;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:484;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6678288;}i:36;a:6:{i:0;s:60:"SELECT `t`.* FROM `TBL_AFILIADOS` `t` WHERE `t`.`PERS_ID`=32";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.226295;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6719784;}i:37;a:6:{i:0;s:60:"SELECT `t`.* FROM `TBL_AFILIADOS` `t` WHERE `t`.`PERS_ID`=32";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2266569;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6723576;}i:39;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `TBL_AFILIADOS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2270241;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6733352;}i:40;a:6:{i:0;s:38:"SHOW FULL COLUMNS FROM `TBL_AFILIADOS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2276039;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6750344;}i:42;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_AFILIADOS' AND kcu.table_name = 'TBL_AFILIADOS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.229064;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6758280;}i:43;a:6:{i:0;s:613:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_AFILIADOS' AND kcu.table_name = 'TBL_AFILIADOS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2295539;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:527;s:8:"function";s:3:"one";s:5:"class";s:18:"yii\db\ActiveQuery";s:4:"type";s:2:"->";}}i:5;i:6761416;}i:45;a:6:{i:0;s:59:"SELECT * FROM `TBL_TIPOSIDENTIFICACIONES` WHERE `TIID_ID`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2316389;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6836144;}i:46;a:6:{i:0;s:59:"SELECT * FROM `TBL_TIPOSIDENTIFICACIONES` WHERE `TIID_ID`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.232044;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6838592;}i:48;a:6:{i:0;s:50:"SHOW FULL COLUMNS FROM `TBL_TIPOSIDENTIFICACIONES`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.232384;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6848864;}i:49;a:6:{i:0;s:50:"SHOW FULL COLUMNS FROM `TBL_TIPOSIDENTIFICACIONES`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2328899;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6856632;}i:51;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOSIDENTIFICACIONES' AND kcu.table_name = 'TBL_TIPOSIDENTIFICACIONES'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.233566;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6861456;}i:52;a:6:{i:0;s:637:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOSIDENTIFICACIONES' AND kcu.table_name = 'TBL_TIPOSIDENTIFICACIONES'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2339859;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:536;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6863256;}i:54;a:6:{i:0;s:46:"SELECT * FROM `TBL_TIPOPLAN` WHERE `TIPL_ID`=1";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.235451;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6896664;}i:55;a:6:{i:0;s:46:"SELECT * FROM `TBL_TIPOPLAN` WHERE `TIPL_ID`=1";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2358699;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6898896;}i:57;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_TIPOPLAN`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2362151;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6909136;}i:58;a:6:{i:0;s:37:"SHOW FULL COLUMNS FROM `TBL_TIPOPLAN`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2367029;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6915712;}i:60;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOPLAN' AND kcu.table_name = 'TBL_TIPOPLAN'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2376981;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6920872;}i:61;a:6:{i:0;s:611:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_TIPOPLAN' AND kcu.table_name = 'TBL_TIPOPLAN'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.238744;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:538;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6922672;}i:63;a:6:{i:0;s:44:"SELECT * FROM `TBL_PLANES` WHERE `PLAN_ID`=4";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.240541;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6959496;}i:64;a:6:{i:0;s:44:"SELECT * FROM `TBL_PLANES` WHERE `PLAN_ID`=4";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2409141;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6962392;}i:66;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `TBL_PLANES`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.241267;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6972696;}i:67;a:6:{i:0;s:35:"SHOW FULL COLUMNS FROM `TBL_PLANES`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2418029;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6983832;}i:69;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PLANES' AND kcu.table_name = 'TBL_PLANES'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2426479;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6987296;}i:70;a:6:{i:0;s:607:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_PLANES' AND kcu.table_name = 'TBL_PLANES'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.243068;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:539;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:6989096;}i:72;a:6:{i:0;s:54:"SELECT * FROM `TBL_ESTADOSAFILIADOS` WHERE `ESAF_ID`=2";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2444479;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7022464;}i:73;a:6:{i:0;s:54:"SELECT * FROM `TBL_ESTADOSAFILIADOS` WHERE `ESAF_ID`=2";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.244787;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7024752;}i:75;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `TBL_ESTADOSAFILIADOS`";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2451229;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7035024;}i:76;a:6:{i:0;s:45:"SHOW FULL COLUMNS FROM `TBL_ESTADOSAFILIADOS`";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2456019;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7041624;}i:78;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_ESTADOSAFILIADOS' AND kcu.table_name = 'TBL_ESTADOSAFILIADOS'";i:1;i:80;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.2462449;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7046936;}i:79;a:6:{i:0;s:627:"SELECT
+    kcu.constraint_name,
+    kcu.column_name,
+    kcu.referenced_table_name,
+    kcu.referenced_column_name
+FROM information_schema.referential_constraints AS rc
+JOIN information_schema.key_column_usage AS kcu ON
+    (
+        kcu.constraint_catalog = rc.constraint_catalog OR
+        (kcu.constraint_catalog IS NULL AND rc.constraint_catalog IS NULL)
+    ) AND
+    kcu.constraint_schema = rc.constraint_schema AND
+    kcu.constraint_name = rc.constraint_name
+WHERE rc.constraint_schema = database() AND kcu.table_schema = database()
+AND rc.table_name = 'TBL_ESTADOSAFILIADOS' AND kcu.table_name = 'TBL_ESTADOSAFILIADOS'";i:1;i:96;i:2;s:21:"yii\db\Command::query";i:3;d:1538608576.246639;i:4;a:1:{i:0;a:5:{s:4:"file";s:85:"C:\wamp\www\Dropbox\homecare\modules\afiliaciones\controllers\AfiliadosController.php";s:4:"line";i:540;s:8:"function";s:5:"__get";s:5:"class";s:23:"yii\db\BaseActiveRecord";s:4:"type";s:2:"->";}}i:5;i:7048736;}}}";s:6:"assets";s:6:"a:0:{}";s:4:"mail";s:6:"a:0:{}";s:8:"timeline";s:93:"a:3:{s:5:"start";d:1538608576.1478741;s:3:"end";d:1538608576.2529061;s:6:"memory";i:7148376;}";s:4:"user";s:2:"N;";s:6:"router";s:1999:"a:1:{s:8:"messages";a:10:{i:6;a:6:{i:0;a:3:{s:4:"rule";s:3:"gii";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.179986;i:4;a:0:{}i:5;i:4024280;}i:7;a:6:{i:0;a:3:{s:4:"rule";s:12:"gii/<id:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1800389;i:4;a:0:{}i:5;i:4025400;}i:8;a:6:{i:0;a:3:{s:4:"rule";s:41:"gii/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1800821;i:4;a:0:{}i:5;i:4026552;}i:9;a:6:{i:0;a:3:{s:4:"rule";s:5:"debug";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.180125;i:4;a:0:{}i:5;i:4027696;}i:10;a:6:{i:0;a:3:{s:4:"rule";s:43:"debug/<controller:[\w\-]+>/<action:[\w\-]+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1801679;i:4;a:0:{}i:5;i:4028848;}i:11;a:6:{i:0;a:3:{s:4:"rule";s:25:"<controller:\w+>/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1802101;i:4;a:0:{}i:5;i:4029984;}i:12;a:6:{i:0;a:3:{s:4:"rule";s:38:"<controller:\w+>/<action:\w+>/<id:\d+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1802521;i:4;a:0:{}i:5;i:4031128;}i:13;a:6:{i:0;a:3:{s:4:"rule";s:29:"<controller:\w+>/<action:\w+>";s:5:"match";b:0;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1802931;i:4;a:0:{}i:5;i:4032264;}i:14;a:6:{i:0;s:72:"Request parsed with URL rule: <module:\w+>/<controller:\w+>/<action:\w+>";i:1;i:8;i:2;s:29:"yii\web\UrlRule::parseRequest";i:3;d:1538608576.1803639;i:4;a:0:{}i:5;i:4035376;}i:15;a:6:{i:0;a:3:{s:4:"rule";s:42:"<module:\w+>/<controller:\w+>/<action:\w+>";s:5:"match";b:1;s:6:"parent";N;}i:1;i:8;i:2;s:32:"yii\web\UrlManager::parseRequest";i:3;d:1538608576.1803999;i:4;a:0:{}i:5;i:4034640;}}}";s:7:"summary";a:9:{s:3:"tag";s:13:"5bb54dc02a412";s:3:"url";s:71:"http://127.0.0.1/Dropbox/homecare/web/afiliaciones/afiliados/searchdata";s:4:"ajax";i:1;s:6:"method";s:4:"POST";s:2:"ip";s:9:"127.0.0.1";s:4:"time";d:1538608576.138;s:10:"statusCode";i:200;s:8:"sqlCount";i:19;s:9:"mailCount";i:0;}s:10:"exceptions";a:0:{}}

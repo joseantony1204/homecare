@@ -1,0 +1,65 @@
+<?php
+
+/* @var $this yii\web\View */
+
+$this->title = 'My Yii Application';
+?>
+
+			
+<div class="card card-body">	
+	
+	
+	
+	
+	<section>	
+		<div class="row">
+                    <!-- Column -->
+                    <div class="col-md-6 col-lg-3 col-xlg-3">
+                        <div class="card card-inverse card-info">
+                            <div class="box bg-info text-center">
+                                <h1 class="font-light text-white">2,064</h1>
+                                <h6 class="text-white">Sessions</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <div class="col-md-6 col-lg-3 col-xlg-3">
+                        <div class="card card-primary card-inverse">
+                            <div class="box text-center">
+                                <h1 class="font-light text-white">1,738</h1>
+                                <h6 class="text-white">Users</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <div class="col-md-6 col-lg-3 col-xlg-3">
+                        <div class="card card-inverse card-success">
+                            <div class="box text-center">
+                                <h1 class="font-light text-white">5963</h1>
+                                <h6 class="text-white">Page Views</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Column -->
+                    <div class="col-md-6 col-lg-3 col-xlg-3">
+                        <div class="card card-inverse card-warning">
+                            <div class="box text-center">
+                                <h1 class="font-light text-white">10%</h1>
+                                <h6 class="text-white">Bounce Rate</h6>
+                            </div>
+                        </div>
+                    </div>
+                </div>	
+	</section>	
+	
+	<section>
+		<div class="row" align="center">
+			<div class="col-md-12">
+			<img src="<?= Yii::getAlias('@web/img/logo.png'); ?>" alt="homepage" class="dark-logo" />
+			</div>	
+		</div>			
+	</section>
+</div>
+
+		
+ 
